@@ -10,10 +10,7 @@
 </head>
 <body>
     <header>
-        <h1>CALENDARIO</h1>
-        <div id="contenitore">
-            <div id="mese">MESE</div>
-        </div>
+        
     </header>
 </body>
 </html>
