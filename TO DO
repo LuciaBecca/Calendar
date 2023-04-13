@@ -1,14 +1,17 @@
 Backend
     creazione database [DONE]
     interazione front con backend
+    extra
+        - memorizazzione json
 Frontend
     disegni [DONE]
     colori (palette) 
     sviluppo stile
     font
-    
+
     PAGINE
         accesso utente 
-        registrazione utente
-        area personale 
+        registrazione utente [PRIMA]
+        area personale
+        calendario --> index 
 
