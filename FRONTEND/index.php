@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <h1>CALENDAR!</h1>
+        <h1>CALENDAR</h1>
     </header>
     <nav>
         <ul>
